@@ -8,7 +8,7 @@ const LoginForm = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-  const isAuthenticated = useSelector((state) => state.auth.isAuthenticated);
+  //const isAuthenticated = useSelector((state) => state.auth.isAuthenticated);
 
   return (
     <div>
