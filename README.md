@@ -1,34 +1,65 @@
-# Social App
+#  SOCIAL APP  *
+
+Created with love by Katy Chi Tran, Annie Do, and Prince ❤
+  
+View online at: https://katymovie.netlify.app/
+Rest API built by Coderschool: https://social-blog-cs.herokuapp.com 
+  
 This social blog application using React, Redux, Redux Thunk, and React Router. The idea is an application that helps user to share their experiences after a trip in a blog post. The other users can leave reviews/comments and give "reaction" (laugh, like, sad, love, angry) to the blog post.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `Project Detail`
 
 # Features:  
-[ ] User can see all the blog posts on the homepage, order by created time \
-[ ] User can register to have an account \
-[ ] User can log in with username and password \
-[ ] After login user can write blog posts, edit and delete his/her own blog posts \
-[ ] After login user can write reviews for blog posts \
-[ ] Before submitting data to the server, the data should be validated \
-[ ] User stays logged in after refreshing browser. 
+* [x] User can see all the blog posts on the homepage, order by created time \
+* [x] User can register to have an account \
+* [x] User can log in with username and password \
+* [x] After login user can write blog posts, edit and delete his/her own blog posts \
+* [x] After login user can write reviews for blog posts \
+* [x] Before submitting data to the server, the data should be validated \
+* [x] User stays logged in after refreshing browser. 
+* [x] After login, user can react (laugh, like, sad, love, angry) to blog posts \
+* [x] Pagination for blogs, reviews \
+* [x] Searching and sorting of blogs 
 
-[ ] After login, user can react (laugh, like, sad, love, angry) to blog posts \
-[ ] Pagination for blogs, reviews \
-[ ] Searching and sorting of blogs 
 
-# Rocket Features:  
-[ ] User can send friend request to another user \
-[ ] User can accept/decline a friend request \
-[ ] User can see list of his/her friends 
+### Plan for **additional** features:
+* [x] User can send friend request to another user \
+* [x] User can accept/decline a friend request \
+* [x] User can see list of his/her friends 
+
+## Time Spent and Lessons Learned
+
+Time spent: **40** hours spent in total.
+
+
+## License
+
+    Copyright [2021] [Katy C.Tran]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
