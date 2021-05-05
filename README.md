@@ -3,6 +3,7 @@
 Created with love by Katy Chi Tran, Annie Do, and Prince ❤
   
 View online at: https://katymovie.netlify.app/
+
 Rest API built by Coderschool: https://social-blog-cs.herokuapp.com 
   
 This social blog application using React, Redux, Redux Thunk, and React Router. The idea is an application that helps user to share their experiences after a trip in a blog post. The other users can leave reviews/comments and give "reaction" (laugh, like, sad, love, angry) to the blog post.
@@ -48,6 +49,9 @@ Time spent: **40** hours spent in total.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+
+## Private Rest API built by Coderschool: https://social-blog-cs.herokuapp.com  
 
 
 
