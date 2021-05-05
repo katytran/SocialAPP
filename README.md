@@ -23,12 +23,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 [ ] After login, user can react (laugh, like, sad, love, angry) to blog posts \
 [ ] Pagination for blogs, reviews \
-[ ] Searching and sorting of blogs \
+[ ] Searching and sorting of blogs 
 
 # Rocket Features:  
 [ ] User can send friend request to another user \
 [ ] User can accept/decline a friend request \
-[ ] User can see list of his/her friends \
+[ ] User can see list of his/her friends 
 
 
 
