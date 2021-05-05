@@ -31,7 +31,7 @@ This social blog application using React, Redux, Redux Thunk, and React Router. 
 
 ## Time Spent and Lessons Learned
 
-Time spent: **40** hours spent in total.
+Time spent: **60** hours spent in total.
 
 
 ## License
